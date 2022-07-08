@@ -29,3 +29,12 @@ Thanks for coming, thanks to the conference organisers, thanks to ...
 Gives right to use copyright material in specific ways, without changing ownership.
 
 No license : no **right** to copy.
+
+# UK National Policy
+
+![](images/roadmap.png)
+
+[https://www.gov.uk/government/publications/uk-research-and-development-roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap)
+
+[OGL 3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+
