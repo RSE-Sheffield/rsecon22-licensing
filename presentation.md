@@ -38,3 +38,15 @@ No license : no **right** to copy.
 
 [OGL 3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
+# Types of open source license
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+**"Copyleft"** e.g. [GPL3](https://choosealicense.com/licenses/gpl-3.0/)
+:::
+::: {.column width="50%"}
+**More permissive** e.g. [MIT](https://choosealicense.com/licenses/mit/)
+:::
+::::::::::::::
+
+[choosealicence.com](https://choosealicense.com/)
