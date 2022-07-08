@@ -19,7 +19,7 @@ Thanks for coming, thanks to the conference organisers, thanks to ...
 
 # Who owns the copyright on my code?
 
-> If you're UK researcher, probably **not** you!
+> If you're UK researcher, probably **not** you! e.g. University of Sheffield:
 - Staff or research students - usually the university ([student IP](https://www.sheffield.ac.uk/research-services/commercialisation/student-ip), [UK gov](https://www.legislation.gov.uk/ukpga/1988/48/section/11).)
 - Different rules for undergrads.
 - Funded research can have specific agreements in place - check with your PI, or your funding agreements.
