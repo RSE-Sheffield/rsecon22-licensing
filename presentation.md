@@ -50,3 +50,16 @@ No license : no **right** to copy.
 ::::::::::::::
 
 [choosealicence.com](https://choosealicense.com/)
+
+# Creative Commons?
+
+::: incremental
+
+- Not recommended:
+  - Lack of disclaimer
+  - Lack software specific terms
+  - License compatibility problems
+
+:::
+
+[https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)
