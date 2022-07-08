@@ -17,8 +17,12 @@ Thanks for coming, thanks to the conference organisers, thanks to ...
 
 # Copyright
 
+::: incremental
+
 - Copyright is a type of intellectual property, particularly relevant to software.
 - [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention) of 1886: Copyright is immediately bestowed upon a work the moment it is created, without requiring any registration.
+
+:::
 
 # Who owns the copyright on my code?
 
@@ -30,17 +34,18 @@ If you're UK researcher, probably **not** you! e.g. University of Sheffield:
 
 # License
 
-Gives right to use copyright material in specific ways, without changing ownership.
+::: incremental
 
-No license : no **right** to copy.
+- Gives right to use copyright material in specific ways, without changing ownership.
+- No license : no **right** to copy.
+
+:::
 
 # UK National Policy
 
 ![](images/roadmap.png)
 
-[https://www.gov.uk/government/publications/uk-research-and-development-roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap)
-
-[OGL 3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+[From the UK R&D Roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap), [OGL 3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 # Types of open source license
 
@@ -66,7 +71,7 @@ No license : no **right** to copy.
 
 :::
 
-[https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)
+[Adapted from CC FAQ](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)
 
 # Questions for panel...
 
