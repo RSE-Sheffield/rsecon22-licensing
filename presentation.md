@@ -66,3 +66,17 @@ No license : no **right** to copy.
 :::
 
 [https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)
+
+# Questions for panel...
+
+# Should RSEs advise a default open source licence? Which would it be?
+
+# Should the organisations we work for or study at grant us ownership of the code we produce to licence as we chose?
+
+# How can we make good decisions on whether code should remain closed source for commercial reasons?
+
+# Is it a good idea for research funders to advise or stipluate a particular licence?
+
+# How do we ensure copyright and licensing are correctly managed for projects where people from multiple organisations contribute code?
+
+# How do we avoid useful code languishing on researchers and RSEs laptops when it could be doing something useful for the world via a licence?
