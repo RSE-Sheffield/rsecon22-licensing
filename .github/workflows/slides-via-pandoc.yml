@@ -22,6 +22,7 @@ jobs:
         with:
           args: >-  # allows you to break string into multiple lines
             --self-contained   
+            --metadata title="Licensing our code for better impact"
             -t revealjs
             -V theme=moon
             -o docs/index.html
