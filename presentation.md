@@ -1,12 +1,13 @@
 # Licensing our code for better impact
 
-Host / Chair: Robert Turner
-September, 2022
-
 <style>
     .reveal h1 { font-size: 2em; }
     .reveal h2 { font-size: 1.5em; }
 </style>
+
+Host / Chair: Robert Turner
+
+September, 2022
 
 # Thanks!
 
