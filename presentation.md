@@ -47,11 +47,19 @@ If you're UK researcher, probably **not** you! e.g. University of Sheffield:
 
 :::
 
-# UK National Policy
+# UK Roadmap
 
 ![](images/roadmap.png)
 
 [From the UK R&D Roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap), [OGL 3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+
+# UK National Policy
+
+![](images/ukri_clause_8.png)
+
+![](images/ukri_clause_12.png)
+
+[From UKRI open access policy](https://www.ukri.org/publications/ukri-open-access-policy/)
 
 # Types of open source license
 
