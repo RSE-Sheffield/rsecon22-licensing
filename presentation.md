@@ -1,5 +1,6 @@
-# Software Licensing
-Robert Turner, many others
+# Licensing our code for better impact
+
+Host / Chair: Robert Turner
 September, 2022
 
 <style>
@@ -9,11 +10,10 @@ September, 2022
 
 # Thanks!
 
-Thanks for coming, thanks to the conference organisers, thanks to ...
+Thanks for coming, thanks to the conference organisers, thanks to those who have advised me and, in advance, to the panel!
 
-# Introductions
+# Panel Introductions
 
-- Bob Turner (chair / host)
 - ...
 
 # Copyright
