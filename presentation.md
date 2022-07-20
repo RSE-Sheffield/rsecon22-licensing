@@ -1,6 +1,6 @@
-%Software Licensing
-%Robert Turner, many others
-%September, 2022
+# Software Licensing
+Robert Turner, many others
+September, 2022
 
 <style>
     .reveal h1 { font-size: 2em; }
@@ -8,6 +8,7 @@
 </style>
 
 # Thanks!
+
 Thanks for coming, thanks to the conference organisers, thanks to ...
 
 # Introductions
