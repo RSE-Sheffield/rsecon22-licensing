@@ -91,3 +91,7 @@ If you're UK researcher, probably **not** you! e.g. University of Sheffield:
 # How do we ensure copyright and licensing are correctly managed for projects where people from multiple organisations contribute code?
 
 # How do we avoid useful code languishing on researchers and RSEs laptops when it could be doing something useful for the world via a licence?
+
+# Thanks
+
+Thanks again to everyone involved!
