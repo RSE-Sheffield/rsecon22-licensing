@@ -91,7 +91,7 @@ If you're UK researcher, probably **not** you! e.g. University of Sheffield:
 
 # Should RSEs advise a default open source licence? Which would it be?
 
-# Should the organisations we work for or study at grant us ownership of the code we produce to licence as we chose?
+# Should the organisations we work for or study at grant us ownership of the code we produce to licence as we choose?
 
 # How can we make good decisions on whether code should remain closed source for commercial reasons?
 
