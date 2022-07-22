@@ -95,7 +95,7 @@ If you're UK researcher, probably **not** you! e.g. University of Sheffield:
 
 # How can we make good decisions on whether code should remain closed source for commercial reasons?
 
-# Is it a good idea for research funders to advise or stipluate a particular licence?
+# Is it a good idea for research funders to advise or stipulate a particular licence?
 
 # How do we ensure copyright and licensing are correctly managed for projects where people from multiple organisations contribute code?
 
