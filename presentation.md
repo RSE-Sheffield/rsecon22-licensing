@@ -13,6 +13,10 @@ September, 2022
 
 Thanks for coming, thanks to the conference organisers, thanks to those who have advised me and, in advance, to the panel!
 
+# Not Legal Advice
+
+I'm not a legal professional and I can't advise on the law.
+
 # Panel Introductions
 
 # Copyright
