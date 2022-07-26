@@ -15,8 +15,6 @@ Thanks for coming, thanks to the conference organisers, thanks to those who have
 
 # Panel Introductions
 
-- ...
-
 # Copyright
 
 ::: incremental
