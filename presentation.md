@@ -19,7 +19,10 @@ Thanks for coming, thanks to the conference organisers, thanks to those who have
 
 ::: incremental
 
-- Copyright is a type of intellectual property, particularly relevant to software.
+> The right by law to be the entity which determines who may publish, copy and distribute a piece of writing, music, picture or other work of authorship.
+
+[https://en.wiktionary.org/wiki/copyright](https://en.wiktionary.org/wiki/copyright)
+
 - [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention) of 1886: Copyright is immediately bestowed upon a work the moment it is created, without requiring any registration.
 
 :::
