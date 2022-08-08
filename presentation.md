@@ -80,6 +80,8 @@ If you're a researcher, probably **not** you!:
 
 [choosealicence.com](https://choosealicense.com/)
 
+Your organisation may have policy / guidance.
+
 # Creative Commons?
 
 ::: incremental
