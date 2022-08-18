@@ -53,6 +53,17 @@ If you're a researcher, probably **not** you!:
 
 :::
 
+# License Considerations
+
+::: incremental
+
+- Code protection:
+    - Protection of business cases: commercial or academic license
+    - Require participation in development: copyleft / restricted Open Source licenses
+    - Do whatever you want: permissive Open Source licenses
+- Patent grants
+- License compatibility
+
 # UK Roadmap
 
 ![](images/roadmap.png)
@@ -71,10 +82,10 @@ If you're a researcher, probably **not** you!:
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-**"Copyleft"** e.g. [GPL3](https://choosealicense.com/licenses/gpl-3.0/)
+**Copyleft / Restrictive** e.g. [GPL3](https://choosealicense.com/licenses/gpl-3.0/)
 :::
 ::: {.column width="50%"}
-**More permissive** e.g. [MIT](https://choosealicense.com/licenses/mit/)
+**Permissive** e.g. [MIT](https://choosealicense.com/licenses/mit/)
 :::
 ::::::::::::::
 
@@ -108,6 +119,10 @@ Your organisation may have policy / guidance.
 # How do we ensure copyright and licensing are correctly managed for projects where people from multiple organisations contribute code?
 
 # How much does the issue of licensing cause useful code to languish on researchers and RSEs laptops, compared with other barriers?
+
+# Is it ethical to use a closed-source license on code that has been paid by public funds?
+
+# Which one gives more participation? a copyleft / restricted license or a permissive license?
 
 # Thanks
 
