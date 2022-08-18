@@ -122,6 +122,8 @@ Your organisation may have policy / guidance.
 
 # Is it ethical to use a closed-source license on code that has been paid by public funds?
 
+# Which one gives more participation? a copyleft / restricted license or a permissive license?
+
 # Thanks
 
 Thanks again to everyone involved!
