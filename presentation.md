@@ -49,7 +49,7 @@ If you're a researcher, probably **not** you!:
 ::: incremental
 
 - Gives right to use copyright material in specific ways, without changing ownership.
-- No license : no **right** to copy.
+- No license : no **right** to copy (or to use).
 
 :::
 
