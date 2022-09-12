@@ -1,23 +1,21 @@
-# Licensing our code for better impact
+# Licensing code for better impact
 
 <style>
     .reveal h1 { font-size: 2em; }
     .reveal h2 { font-size: 1.5em; }
 </style>
 
-Host / Chair: Robert Turner
+Hosts: Kate O'Neill, Robert (Bob) Turner
 
 September, 2022
 
 # Thanks!
 
-Thanks for coming, thanks to the conference organisers, thanks to those who have advised me and, in advance, to the panel!
+Thanks for coming, thanks to the conference organisers, thanks to those who have advised!
 
 # Not Legal Advice
 
 I'm not a legal professional and I can't advise on the law.
-
-# Panel Introductions
 
 # Copyright
 
@@ -84,24 +82,20 @@ Your organisation may have policy / guidance.
 
 # Creative Commons?
 
-::: incremental
-
 - Not recommended:
   - Lack of disclaimer
   - Lack software specific terms
   - License compatibility problems
 
-:::
-
 [Adapted from CC FAQ](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)
 
 # Questions for panel...
 
-# Should RSEs advise a default open source licence? Which would it be?
+# Should TUoS advise a default open source licence? Which would it be?
 
-# Should the organisations we work for or study at grant us ownership of the code we produce to licence as we chose?
+# Should the organisations we work for or study at grant us permission to license the code we produce as we chose?
 
-# How can we make good decisions on whether code should remain closed source for commercial reasons?
+# Can we make good decisions on whether code should remain closed source for commercial reasons? Is more support needed?
 
 # Is it a good idea for research funders to advise or stipulate a particular licence?
 
