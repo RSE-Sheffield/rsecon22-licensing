@@ -89,7 +89,7 @@ Your organisation may have policy / guidance.
 
 [Adapted from CC FAQ](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)
 
-# Questions for panel...
+# Questions for disucssion...
 
 # Should TUoS advise a default open source licence? Which would it be?
 
